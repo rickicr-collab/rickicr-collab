@@ -8,18 +8,26 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]( https://discord.com/richardstick#5631)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rickicr)
 
-![Ricardo Rosendo GitHub stats](https://github-readme-stats.vercel.app/api?username=rickicr-collab&show_icons=true&theme=dracula)
+![Ricardo Rosendo GitHub stats](https://github-readme-stats.vercel.app/api?username=rickicr-collab&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickicr-collab)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que acompanho no dia a dia 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="visualstudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-  <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
-
+  <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+  <img align="center" alt="googlecolab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+</div>
+ 
+### Hobbies 
+<div style="display: inline_block"><br/>
+  <img align="center" alt="playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+  <img align="center" alt="netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+  <img align="center" alt="AmazonPrime" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white">
+  <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
 
-Apaixonado pela vida, Educação e busco ajudar as pessoas atraves da programação. 
-
+### Apaixonado pela vida, Educação e busco ajudar as pessoas atraves da programação. 
