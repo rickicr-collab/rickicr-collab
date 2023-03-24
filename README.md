@@ -8,9 +8,9 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]( https://discord.com/richardstick#5631)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rickicr)
 
-![Ricardo Rosendo GitHub stats](https://github-readme-stats.vercel.app/api?username=rickicr&show_icons=true&theme=dracula)
+![Ricardo Rosendo GitHub stats](https://github-readme-stats.vercel.app/api?username=rickicr-collab&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickicr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickicr-collab)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que acompanho no dia a dia 
 
